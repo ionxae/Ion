@@ -1,2 +1,3 @@
 # Ion
-Ion a stockmarket overview program
+
+stck overview
